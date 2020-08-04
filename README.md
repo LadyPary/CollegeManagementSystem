@@ -49,8 +49,8 @@ This College Management System has a beautiful user interface using PyQt5 and co
 	- Class Management
 		- My Classes
 		- Class Request
-				- New Class Request
-				- Class Requests Status
+			- New Class Request
+			- Class Requests Status
 		- Students
 		- Submit Grades
 	- Profile 
