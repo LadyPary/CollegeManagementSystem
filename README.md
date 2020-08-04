@@ -72,7 +72,11 @@ This College Management System has a beautiful user interface using PyQt5 and co
 		- Sign Out
 	
 Example of student main page:
+
+
 ![Student Main Page Demo](github.gif)
+
+
 
 ### Built With
 
