@@ -122,13 +122,13 @@ To register as a new student after filling the sign up form you have to sign in 
 
 You can create an empty database file with tables by running the <database_setup.py> file from Data folder. Make sure to delete the existing database before creating a new one.    
 
-You can print and see all the information from database by running the <see_data> file. 
+You can print and see all the information from database by running the <see_data.py> file. 
 
 All the pages have been designed with QtDesigner and you can find them in <Ui_Classes> folder.
 <!-- CONTACT -->
 ## Contact
 
-Parisa Rabbany - Parisa.Rabbany@gmail.com
+Parisa Rabbany - Parisa.Rabbany.pr@gmail.com
 
 
 
