@@ -27,6 +27,7 @@
 This College Management System has a beautiful user interface using PyQt5 and connects to the database with SQLite3. Three types of users can sign up and do various things.
 
 ### Users
+
 1. #### Dean of Faculty
 	- Management
 		- Academics
@@ -44,7 +45,12 @@ This College Management System has a beautiful user interface using PyQt5 and co
 		- Edit Profile
 		- Change Password
 		- Sign Out
- 
+		
+		
+ ![Dean Page Demo](Gifs/Dean_page.gif)
+
+
+
 2. #### Professor
 	- Class Management
 		- My Classes
@@ -57,7 +63,11 @@ This College Management System has a beautiful user interface using PyQt5 and co
 		- Edit Profile
 		- Change Password
 		- Sign Out
-	
+
+
+ ![Prof Page Demo](Gifs/Prof_page.gif)
+ 
+ 
 3.  #### Student
 	 - Academics
 		 - Courses
@@ -70,12 +80,11 @@ This College Management System has a beautiful user interface using PyQt5 and co
 		- Edit Profile
 		- Change Password
 		- Sign Out
-	
-Example of student main page:
 
 
-![Student Main Page Demo](github.gif)
-
+ ![Stu Page Demo](Gifs/Student_page.gif)
+ 
+ 
 
 
 ### Built With
@@ -113,10 +122,12 @@ These users are already registered in <Modern_University.db> and are ready to us
 | 1 |freddie@gmail.com | fm  |
 | 2 |rabbani@gmail.com  | rr  |
 | 3 |doe@gmail.com   | jd  |
+
 ---
 | Dean  | Username  | Password |
 | ------------- | ------------- |------------- |
 | 1 | yasemi@gmail.com  | sy  |
+
 ---
 To register as a new student after filling the sign up form you have to sign in as the dean of faculty and accept your request then sign in from the first page.
 
@@ -125,6 +136,13 @@ You can create an empty database file with tables by running the <database_setup
 You can print and see all the information from database by running the <see_data.py> file. 
 
 All the pages have been designed with QtDesigner and you can find them in <Ui_Classes> folder.
+
+---
+**Example of requesting a new class:**
+Here I request the English class for Prof.Doe and then accept the request from dean's account.
+
+ ![New Class Req Demo](Gifs/new_clss_req.gif)
+
 <!-- CONTACT -->
 ## Contact
 
