@@ -141,7 +141,7 @@ All the pages have been designed with QtDesigner and you can find them in <Ui_Cl
 **Example of requesting a new class:**
 Here I request the English class for Prof.Doe and then accept the request from dean's account.
 
- ![New Class Req Demo](Gifs/new_clss_req.gif)
+ ![New Class Req Demo](Gifs/new_class_req.gif)
 
 <!-- CONTACT -->
 ## Contact
