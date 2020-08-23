@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h3 align="center">  College Management System With Database</h3>
+  <h3 align="center">  🎓 College Management System With Database</h3>
   <p align="center">
     College Management System With Database using PyQt5 and SQLite3.
     <br />
